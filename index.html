@@ -2,15 +2,17 @@
 layout: default
 ---
 
-<h1>Kuba Kuźma</h1>
+<article>
+  <h1>Kuba Kuźma</h1>
 
-<ul>
-  {% for post in site.posts %}
-  <li>
-    <h3>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      (<em>{{ post.date | date: "%b %-d, %Y" }}</em>)
-    </h3>
-  </li>
-  {% endfor %}
-</ul>
+  <ul>
+    {% for post in site.posts %}
+    <li>
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        (<em>{{ post.date | date: "%b %-d, %Y" }}</em>)
+      </h3>
+    </li>
+    {% endfor %}
+  </ul>
+</article>
