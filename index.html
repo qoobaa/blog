@@ -2,17 +2,23 @@
 layout: default
 ---
 
-<article>
-  <h1>Kuba Kuźma</h1>
+<div class="container toc">
+  <header>
+    <h1>
+      <a href="/">Kuba Kuźma</a>
+    </h1>
+  </header>
 
-  <ul>
+  <ul class="list-unstyled">
     {% for post in site.posts %}
     <li>
-      <h3>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        (<em>{{ post.date | date: "%b %-d, %Y" }}</em>)
-      </h3>
+      <em>{{ post.date | date: "%b %-d, %Y" }} &mdash; </em>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
   </ul>
-</article>
+
+  <footer class="text-muted">
+    &copy; 2010-<script>document.write(new Date().getFullYear())</script> Kuba Kuźma. All Rights Reserved.
+  </footer>
+</div>

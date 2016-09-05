@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Alfios;
+    src: url("/f/Alfios_R.eot") format("eot"),
+         url("/f/Alfios_R.woff") format("woff"),
+         url("/f/Alfios_R.ttf") format("truetype"),
+         url("/f/Alfios_R.svg#Alfios") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Alfios;
+    src: url("/f/Alfios_B.eot") format("eot"),
+         url("/f/Alfios_B.woff") format("woff"),
+         url("/f/Alfios_B.ttf") format("truetype"),
+         url("/f/Alfios_B.svg#AlfiosBold") format("svg");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Alfios;
+    src: url("/f/Alfios_I.eot") format("eot"),
+         url("/f/Alfios_I.woff") format("woff"),
+         url("/f/Alfios_I.ttf") format("truetype"),
+         url("/f/Alfios_I.svg#AlfiosItalic") format("svg");
+    font-weight: normal;
+    font-style: italic;
+}

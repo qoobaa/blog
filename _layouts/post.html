@@ -1,19 +1,39 @@
 ---
 layout: default
 ---
-<article itemscope itemtype="http://schema.org/BlogPosting">
+<div class="container article">
+  <div class="row">
+    <div class="col-md-8">
+      <article itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <h1 itemprop="name headline">
+            <a href="">{{ page.title }}</a>
+          </h1>
+          <div class="timestamp">
+            <em class="text-muted">
+              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+            </em>
+          </div>
+        </header>
+        <div itemprop="articleBody">
+          {{ content }}
+        </div>
+        <hr>
+        <footer>
+          See <a href="/">other articles</a>.
+        </footer>
+      </article>
+    </div>
+    <div class="col-md-4">
+      <div class="jumbotron">
+        <h1>Hello</h1>
 
-  <header>
-    <h1 itemprop="name headline">
-      {{ page.title }}
-    </h1>
-    <p class="subtitle">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-    </p>
-  </header>
-
-  <div itemprop="articleBody">
-    {{ content }}
+        <div class="clearfix"></div>
+        <p>
+          I'm Kuba&nbsp;Kuźma &mdash; Ruby on Rails and JavaScript Developer
+        </p>
+        <a class="btn btn-lg btn-success" href="//kubakuzma.com">Learn more</a>
+      </div>
+    </div>
   </div>
-
-</article>
+</div>
