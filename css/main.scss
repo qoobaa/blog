@@ -66,6 +66,10 @@
         footer {
             font-style: italic;
         }
+
+        img {
+            @extend .img-thumbnail;
+        }
     }
 
     .jumbotron {
