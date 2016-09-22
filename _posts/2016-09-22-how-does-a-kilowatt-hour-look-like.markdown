@@ -13,7 +13,7 @@ So, what a kilowatt hour of high-grade electric energy can do for you? Many usef
 - wash your dishes (average A grade dishwasher energy usage per cycle)
 - boil 8 litres of water in your kettle (depends on water temperature)
 - provide a light on your desk for 4 days (average 10 W LED bulb)
-- let you drive your EV 4 miles at highway speeds (according to a HN comment, probably the EV is Tesla)
+- let you drive your EV 4 miles at highway speeds (according to an HN comment, probably the EV is Tesla)
 
 …and so on.
 
