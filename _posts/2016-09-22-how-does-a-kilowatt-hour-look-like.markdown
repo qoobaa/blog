@@ -5,7 +5,7 @@ title:  "How does a kilowatt hour look like?"
 
 
 
-Some time ago I came across a very good read by [David McCay - Sustainable Energy without the Hot Air](https://www.withouthotair.com/). I've seen many [good reviews](https://www.gatesnotes.com/Books/Clear-Thinking-on-the-Topic-of-Energy) of the book, so it didn't take me long to download and start reading it. I haven't finished yet, but I can already confirm that the book is outstanding - it's one of these books that fundamentally change the way you look at things around you. The only thing I knew about "kilowatt hours" before, was that they come every month with an electricity bill. The book can give you a much broader picture of i.e. where they come from, and what they can do for you.
+Some time ago I came across a very good read by [David McCay - Sustainable Energy without the Hot Air](https://www.withouthotair.com/). I've seen many [good reviews](https://www.gatesnotes.com/Books/Clear-Thinking-on-the-Topic-of-Energy) of the book, so it didn't take me long to download and start reading it. I haven't finished yet, but I can already confirm that the book is outstanding - it's one of the books that fundamentally change the way you look at things around you. The only thing I knew about "kilowatt hours" before, was that they come every month with an electricity bill. The book can give you a much broader picture of i.e. where they come from, and what they can do for you.
 
 So, what a kilowatt hour of high-grade electric energy can do for you? Many useful things, i.e.:
 
