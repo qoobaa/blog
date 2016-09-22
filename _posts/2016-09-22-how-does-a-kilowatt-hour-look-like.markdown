@@ -17,7 +17,7 @@ So, what a kilowatt hour of high-grade electric energy can do for you? Many usef
 
 …and so on.
 
-Where can I get a kilowatt hour from? While most people get it from the grid, more and more decide to harvest it from the sun on their own. It's getting cheaper as PV prices go down, but PV is not enough when you want to do your laundry on a rainy day (or at night). Here comes the storage, and the most popular way to store electric energy these days is Lithium-ion. How does a kilowatt hour in a Lithium-ion batteries look like?
+Where can I get a kilowatt hour from? While most people get it from the grid, more and more decide to harvest it from the sun on their own. It's getting cheaper as PV prices go down, but PV is not enough when you want to do your laundry on a rainy day (or at night). Here comes the storage, and the most popular way to store electric energy these days is Lithium-ion. How does a kilowatt hour in Lithium-ion batteries look like?
 
 ![1 kWh in Li-Ion 18650 cells](/i/IMG_20160922_123751.jpg)
 
