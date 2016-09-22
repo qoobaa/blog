@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What does a kilowatt hour look like?"
+hacker_news_id: 12560488
 ---
 
 Some time ago I came across a very good read by [David McCay - Sustainable Energy without the Hot Air](https://www.withouthotair.com/). I've seen many [good reviews](https://www.gatesnotes.com/Books/Clear-Thinking-on-the-Topic-of-Energy) of the book, so it didn't take me long to download and start reading it. I haven't finished yet, but I can already confirm that the book is outstanding - it's one of the books that fundamentally change the way you look at things around you. The only thing I knew about "kilowatt hours" before, was that they come every month with an electricity bill. The book can give you a much broader picture of i.e. where they come from, and what they can do for you.
@@ -12,6 +13,7 @@ So, what a kilowatt hour of high-grade electric energy can do for you? Many usef
 - wash your dishes (average A grade dishwasher energy usage per cycle)
 - boil 8 litres of water in your kettle (depends on water temperature)
 - provide a light on your desk for 4 days (average 10 W LED bulb)
+- lets you drive your EV 4 miles at highway speeds (according to a HN comment, probably the EV is Tesla)
 
 …and so on.
 
