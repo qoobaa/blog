@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  "How does a kilowatt hour look like?"
+title:  "What does a kilowatt hour look like?"
 ---
-
-
 
 Some time ago I came across a very good read by [David McCay - Sustainable Energy without the Hot Air](https://www.withouthotair.com/). I've seen many [good reviews](https://www.gatesnotes.com/Books/Clear-Thinking-on-the-Topic-of-Energy) of the book, so it didn't take me long to download and start reading it. I haven't finished yet, but I can already confirm that the book is outstanding - it's one of the books that fundamentally change the way you look at things around you. The only thing I knew about "kilowatt hours" before, was that they come every month with an electricity bill. The book can give you a much broader picture of i.e. where they come from, and what they can do for you.
 
@@ -17,7 +15,7 @@ So, what a kilowatt hour of high-grade electric energy can do for you? Many usef
 
 …and so on.
 
-Where can I get a kilowatt hour from? While most people get it from the grid, more and more decide to harvest it from the sun on their own. It's getting cheaper as PV prices go down, but PV is not enough when you want to do your laundry on a rainy day (or at night). Here comes the storage, and the most popular way to store electric energy these days is Lithium-ion. How does a kilowatt hour in Lithium-ion batteries look like?
+Where can I get a kilowatt hour from? While most people get it from the grid, more and more decide to harvest it from the sun on their own. It's getting cheaper as PV prices go down, but PV is not enough when you want to do your laundry on a rainy day (or at night). Here comes the storage, and the most popular way to store electric energy these days is Lithium-ion. What does a kilowatt hour in Lithium-ion batteries look like?
 
 ![1 kWh in Li-Ion 18650 cells](/i/IMG_20160922_123751.jpg)
 
