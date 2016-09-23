@@ -24,3 +24,9 @@ Where can I get a kilowatt hour from? While most people get it from the grid, mo
 I'm holding here a hundred 18650 cells pack, built using recycled old laptop batteries. Every cell is capable of storing 2600&nbsp;mAh when it's new and has an average voltage of 3.7&nbsp;V. Every single cell stores roughly 10&nbsp;Wh of electricity, so when you connect a hundred of these cells, you can get an around 1&nbsp;kWh battery module. When you connect ten 1&nbsp;kWh modules, you can get a 10&nbsp;kWh power wall. When you have a few thousands of more spare cells, you can even get a decent EV battery allowing you to drive a few hundreds of kilometres on a single charge.
 
 This is a very interesting subject I recently got into. I'll try to write more about the details, and progress of the project on this blog. See you soon.
+
+*[COP]: Coefficient of performance
+*[LED]: Light-emitting diode
+*[HN]: Hacker News
+*[EV]: Electric vehicle
+*[PV]: Photovoltaics
