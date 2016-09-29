@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Different Types of Lithium-Ion"
-hacker_news_id: 12560488
+hacker_news_id: 12604405
 ---
 
 I didn't expect such a huge reaction to the [article I published recently](https://blog.kubakuzma.com/2016/09/22/how-does-a-kilowatt-hour-look-like.html). The article stayed on the Hacker News front page for more than 15 hours. In that time around 50k users have visited my blog. Thank you all for comments and suggestions - it really motivates me to write something regularly and to work on projects like this one.
