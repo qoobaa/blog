@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.28323cm"
+   height="11.298092cm"
+   viewBox="7.95 14.41 28.868782 19.587578"
+   id="svg3783"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="li-ion-chemistry.svg">
+  <metadata
+     id="metadata3897">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3895" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="1052"
+     id="namedview3893"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.86610717"
+     inkscape:cx="494.53899"
+     inkscape:cy="384.46639"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3783"
+     showguides="true" />
+  <line
+     x1="20.384388"
+     y1="33.997578"
+     x2="20.384388"
+     y2="14.997578"
+     id="line3785"
+     style="stroke:#4d4d4d;stroke-width:0.1" />
+  <line
+     x1="40.384392"
+     y1="33.997578"
+     x2="40.384392"
+     y2="14.997578"
+     id="line3787"
+     style="stroke:#4d4d4d;stroke-width:0.1" />
+  <line
+     x1="11.38439"
+     y1="33.997578"
+     x2="11.38439"
+     y2="14.997578"
+     id="line3789"
+     style="stroke:#4d4d4d;stroke-width:0.1" />
+  <line
+     x1="4.3843899"
+     y1="33.997578"
+     x2="4.3843899"
+     y2="14.997578"
+     id="line3791"
+     style="stroke:#4d4d4d;stroke-width:0.1" />
+  <line
+     x1="13.38439"
+     y1="33.997578"
+     x2="13.38439"
+     y2="14.997578"
+     id="line3793"
+     style="stroke:#4d4d4d;stroke-width:0.1" />
+  <line
+     x1="30.384388"
+     y1="33.997578"
+     x2="30.384388"
+     y2="14.997578"
+     id="line3795"
+     style="stroke:#4d4d4d;stroke-width:0.1" />
+  <rect
+     x="20.358519"
+     y="15.989307"
+     width="20.034142"
+     height="2.0165408"
+     id="rect3799"
+     style="fill:#aade87;stroke:#bfbfbf;stroke-width:0.08345933" />
+  <text
+     x="30.389711"
+     y="17.172577"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3801"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">Lithium Cobalt Oxide (LiCoO₂)</text>
+  <rect
+     x="11.38439"
+     y="18.997578"
+     width="29"
+     height="2"
+     id="rect3803"
+     style="fill:#aade87;stroke:none;stroke-width:0" />
+  <rect
+     x="11.38439"
+     y="18.997578"
+     width="29"
+     height="2"
+     id="rect3805"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <text
+     x="25.884388"
+     y="20.172577"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3807"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">Lithium Manganese Oxide (LiMn₂O₄)</text>
+  <rect
+     x="11.38439"
+     y="21.997578"
+     width="29"
+     height="2"
+     id="rect3809"
+     style="fill:#aade87;stroke:none;stroke-width:0" />
+  <rect
+     x="11.38439"
+     y="21.997578"
+     width="29"
+     height="2"
+     id="rect3811"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <text
+     x="25.884388"
+     y="23.172577"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3813"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">Lithium Nickel Manganese Cobalt Oxide (LiNiMnCoO₂)</text>
+  <rect
+     x="11.38439"
+     y="24.997578"
+     width="19"
+     height="2"
+     id="rect3815"
+     style="fill:#aade87;stroke:none;stroke-width:0" />
+  <rect
+     x="11.38439"
+     y="24.997578"
+     width="19"
+     height="2"
+     id="rect3817"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <text
+     x="20.884388"
+     y="26.172577"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3819"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">Lithium Iron Phosphate (LiFePO₄)</text>
+  <rect
+     x="20.384388"
+     y="27.997578"
+     width="20"
+     height="2"
+     id="rect3821"
+     style="fill:#aade87;stroke:none;stroke-width:0" />
+  <rect
+     x="20.384388"
+     y="27.997578"
+     width="20"
+     height="2"
+     id="rect3823"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <text
+     x="30.384388"
+     y="29.172577"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3825"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">Lithium Nickel Cobalt Aluminum Oxide (LiNiCoAlO₂)</text>
+  <rect
+     x="4.3843899"
+     y="30.997578"
+     width="9"
+     height="2"
+     id="rect3827"
+     style="fill:#90ee90;stroke:none;stroke-width:0" />
+  <rect
+     x="4.3843899"
+     y="30.997578"
+     width="9"
+     height="2"
+     id="rect3829"
+     style="fill:#aade87;stroke:#bfbfbf;stroke-width:0.1" />
+  <text
+     x="8.8843899"
+     y="32.172577"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3831"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">Lithium Titanate (Li₄Ti₅O₁₂)</text>
+  <text
+     x="20.384388"
+     y="14.877578"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3833"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">3.0 V</text>
+  <text
+     x="40.384392"
+     y="14.877578"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3835"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">4.2 V</text>
+  <text
+     x="11.38439"
+     y="14.877578"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3837"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">2.5 V</text>
+  <text
+     x="4.3843899"
+     y="14.877578"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3839"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">1.8 V</text>
+  <text
+     x="13.38439"
+     y="14.877578"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3841"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">2.85 V</text>
+  <text
+     x="30.384388"
+     y="14.877578"
+     font-size="0.63"
+     font-style="normal"
+     font-weight="400"
+     id="text3843"
+     style="font-style:normal;font-weight:400;font-size:0.63px;font-family:sans;text-anchor:middle;fill:#000000">3.65 V</text>
+  <rect
+     x="1.38439"
+     y="15.997578"
+     width="10"
+     height="2"
+     id="rect3845"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="1.38439"
+     y="15.997578"
+     width="10"
+     height="2"
+     id="rect3847"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="1.38439"
+     y="18.997578"
+     width="10"
+     height="2"
+     id="rect3849"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="1.38439"
+     y="18.997578"
+     width="10"
+     height="2"
+     id="rect3851"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="1.38439"
+     y="21.997578"
+     width="10"
+     height="2"
+     id="rect3853"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="1.38439"
+     y="21.997578"
+     width="10"
+     height="2"
+     id="rect3855"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="1.38439"
+     y="24.997578"
+     width="10"
+     height="2"
+     id="rect3857"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="1.38439"
+     y="24.997578"
+     width="10"
+     height="2"
+     id="rect3859"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="1.38439"
+     y="27.997578"
+     width="19"
+     height="2"
+     id="rect3861"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="1.38439"
+     y="27.997578"
+     width="19"
+     height="2"
+     id="rect3863"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="13.38439"
+     y="30.997578"
+     width="30"
+     height="2"
+     id="rect3865"
+     style="fill:#ffc0cb;stroke:none;stroke-width:0" />
+  <rect
+     x="13.38439"
+     y="30.997578"
+     width="30"
+     height="2"
+     id="rect3867"
+     style="fill:#ffaaaa;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="40.384392"
+     y="27.997578"
+     width="3"
+     height="2"
+     id="rect3869"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="40.384392"
+     y="27.997578"
+     width="3"
+     height="2"
+     id="rect3871"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="40.384392"
+     y="18.997578"
+     width="3"
+     height="2"
+     id="rect3873"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="40.384392"
+     y="18.997578"
+     width="3"
+     height="2"
+     id="rect3875"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="40.384392"
+     y="15.997578"
+     width="3"
+     height="2"
+     id="rect3877"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="40.384392"
+     y="15.997578"
+     width="3"
+     height="2"
+     id="rect3879"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="40.384392"
+     y="21.997578"
+     width="3"
+     height="2"
+     id="rect3881"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="40.384392"
+     y="21.997578"
+     width="3"
+     height="2"
+     id="rect3883"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="30.384388"
+     y="24.997578"
+     width="13"
+     height="2"
+     id="rect3885"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="30.384388"
+     y="24.997578"
+     width="13"
+     height="2"
+     id="rect3887"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="1.38439"
+     y="30.997578"
+     width="3"
+     height="2"
+     id="rect3889"
+     style="fill:#ffaaaa;stroke:none;stroke-width:0" />
+  <rect
+     x="1.38439"
+     y="30.997578"
+     width="3"
+     height="2"
+     id="rect3891"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.1" />
+  <rect
+     x="11.38782"
+     y="15.977062"
+     width="8.9781742"
+     height="2.0321991"
+     id="rect3845-5"
+     style="fill:#ffe680;stroke:none;stroke-width:0" />
+  <rect
+     x="11.380758"
+     y="15.984123"
+     width="8.9770899"
+     height="2.0254924"
+     id="rect3847-3"
+     style="fill:none;stroke:#bfbfbf;stroke-width:0.06780088" />
+</svg>
