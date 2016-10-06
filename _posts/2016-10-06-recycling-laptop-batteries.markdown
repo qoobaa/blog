@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recycling Laptop Batteries"
-hacker_news_id: "?"
+hacker_news_id: 12654006
 ---
 
 I've been recycling laptop batteries for a while now, and I thought it'd be a good idea to summarise things I've learned so far.
