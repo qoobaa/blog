@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Very First 20p Pack"
-hacker_news_id: "?"
+hacker_news_id: 12676997
 ---
 
 I've just soldered my very first pack of 20 parallel 18650 cells. It doesn't look beautiful, but it seems to work fine.
