@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blowing Fuses"
-hacker_news_id: "?"
+hacker_news_id: 12724051
 ---
 
 I just wanted to see what happens if a short appears in the circuit - to check if the fuses I made really work. Here you go.
