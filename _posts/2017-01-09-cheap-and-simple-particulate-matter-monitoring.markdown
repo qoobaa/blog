@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cheap and Simple Particulate Matter Monitoring"
-hacker_news_id: 12724051
+hacker_news_id: 13356956
 ---
 
 A few friends of mine have recently motivated me to spend a while on
