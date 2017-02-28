@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Prusa i3 MK2 Experience"
-hacker_news_id: 0
+hacker_news_id: 13753061
 ---
 
 I've been watching the 3D printing world for quite some time now,
