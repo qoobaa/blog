@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fixing Prusa MK42 Heatbed
-hacker_news_id: ''
+hacker_news_id: 15191955
 ---
 
 If you happen to break your MK42 heatbed, like I did a week ago, there's a non-obvious way of getting it back to life. My biggest sin was using a very sharp tool to peel the print off the bed. I accidentally cut the PEI layer and damaged one of the heating circuits in the middle of the PCB. There's more than one circuit, but breaking just one of them means that your heatbed won't heat up evenly, and will become virtually useless. I've decided to order a new heatbed for $100 from Prusa Research to make the printer functional as quickly as possible. However, I really don't like throwing things in the garbage, so I started looking for a way to fix the old heatbed.
