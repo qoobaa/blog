@@ -28,10 +28,10 @@ google:
 
 It looks pretty straightforward, but there's a good chance that you'll
 see an `OpenSSL::PKey::RSAError (Neither PUB key nor PRIV key: nested
-asn1 error)`, or YAML parser error when you try to launch the app. The
-main issue is the `private_key` line, that tries to inject a multiline
-RSA key into the `storage.yml`. The easiest workaround that I've found
-so far looks like this:
+asn1 error)`, or a YAML parser error when you try to launch the
+app. The main issue is the `private_key` line, that tries to inject a
+multiline RSA key into the `storage.yml`. The easiest workaround that
+I've found so far looks like this:
 
 ```
 google:
