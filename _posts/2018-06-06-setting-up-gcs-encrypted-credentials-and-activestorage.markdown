@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up GCS, encrypted credentials and ActiveStorage
-hacker_news_id: 0
+hacker_news_id: 17250655
 ---
 
 I've spent a while today trying to set up ActiveStorage in a new Rails
