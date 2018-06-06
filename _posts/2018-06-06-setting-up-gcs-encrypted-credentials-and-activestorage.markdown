@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up GCS, Rails credentials and ActiveStorage
+title: Setting up GCS, enrypted credentials and ActiveStorage
 hacker_news_id: 0
 ---
 
