@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up GCS credentials in ActiveStorage
+title: Setting up GCS, Rails credentials and ActiveStorage
 hacker_news_id: 0
 ---
 
@@ -28,10 +28,10 @@ google:
 
 It looks pretty straightforward, but there's a good chance that you'll
 see an `OpenSSL::PKey::RSAError (Neither PUB key nor PRIV key: nested
-asn1 error)`, or YAML parser error when you try to launch your
-app. The main issue is the `private_key` line, that tries to inject a
-multiline RSA key into the `storage.yml`. The easiest workaround that
-I've found so far looks like this:
+asn1 error)`, or YAML parser error when you try to launch the app. The
+main issue is the `private_key` line, that tries to inject a multiline
+RSA key into the `storage.yml`. The easiest workaround that I've found
+so far looks like this:
 
 ```
 google:
@@ -41,6 +41,6 @@ google:
   …
 ```
 
-I haven't found this issue explained anywhere in the docs, so I think
-this little trick may be handy until the issue is solved officialy in
-a more elegant way.
+I haven't found this issue mentioned anywhere in the docs, so I think
+this little trick may be handy until it's is solved officialy in a
+more elegant way.
