@@ -6,7 +6,7 @@ hacker_news_id: 17250655
 
 I've spent a while today trying to set up ActiveStorage in a new Rails
 application properly. The current Rails guides suggest to declare the
-following service `config/storage.yml` file:
+following service in `config/storage.yml` file:
 
 ```
 google:
