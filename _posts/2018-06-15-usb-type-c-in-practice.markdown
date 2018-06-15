@@ -4,7 +4,7 @@ title: USB Type C in Practice
 hacker_news_id: 17317729
 ---
 
-I've recently replaced a Nexus 5X with a Xiaomi Mi 5, just before 5X
+I've recently replaced my Nexus 5X with a Xiaomi Mi 5, just before 5X
 dies in a bootloop like everyone else's does. Both devices have USB
 Type C ports, so you can just use whatever Type C charger for both
 without worrying which one is for LG and which one is for Xiaomi,
