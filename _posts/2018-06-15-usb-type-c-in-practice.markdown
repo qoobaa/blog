@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USB Type C in Practice
-hacker_news_id: 0
+hacker_news_id: 17317729
 ---
 
 I've recently replaced a Nexus 5X with a Xiaomi Mi 5, just before 5X
