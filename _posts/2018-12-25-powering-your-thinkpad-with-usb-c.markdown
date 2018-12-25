@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Powering Your Thinkpad with USB C
-hacker_news_id: nil
+hacker_news_id: 18756776
 ---
 
 I currently work a [ThinkPad T450](https://thinkwiki.de/T450), after
@@ -14,7 +14,7 @@ way to fix it.
 
 ![Adapter](/i/IMG_20181018_101721.jpg)
 
-I've made a USB C to Dell converter using PD Buddy
+I've made a USB C to Dell converter using [PD Buddy
 Sink](https://www.tindie.com/products/clayghobbs/pd-buddy-sink/)
 before, and it worked great. The board costs around $45 including
 shipping to EU, and I would highly recommend it. However, I've found a
