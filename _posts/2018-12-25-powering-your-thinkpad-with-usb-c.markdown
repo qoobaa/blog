@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Powering Your Thinkpad with USB C
+title: Powering Your ThinkPad with USB C
 hacker_news_id: 18756776
 ---
 
