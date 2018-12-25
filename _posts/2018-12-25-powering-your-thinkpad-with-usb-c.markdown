@@ -4,11 +4,11 @@ title: Powering Your ThinkPad with USB C
 hacker_news_id: 18756776
 ---
 
-I currently work a [ThinkPad T450](https://thinkwiki.de/T450), after
-switching back from Dell XPS series recently. It's a decent piece of
-hardware in general, it has everything I could expect from an
-ultrabook except for one tiny little detail. For me, the main reason to
-upgrade to a newer model would be the USB C port so I could have a
+I currently work on a [ThinkPad T450](https://thinkwiki.de/T450),
+after switching back from Dell XPS series recently. It's a decent
+piece of hardware in general, it has everything I could expect from an
+ultrabook except for one tiny little detail. For me, the main reason
+to upgrade to a newer model would be the USB C port so I could have a
 single power adapter for all my devices. Fortunately, there's an easy
 way to fix it.
 
