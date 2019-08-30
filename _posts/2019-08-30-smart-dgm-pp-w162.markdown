@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart DGM PP-W162
-hacker_news_id: 18756776
+hacker_news_id: 20836866
 ---
 
 As you may have heard, Biedronka (the largest supermarket chain in
