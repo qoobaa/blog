@@ -10,8 +10,8 @@ can remotely control anything up to 16 A (3680 W), monitoring the
 power usage too. I bought a few [Sonoff
 Pows](https://www.itead.cc/sonoff-pow.html) for this purpose before,
 and I couldn't get them for less than $15 if I remember
-correctly. Also, the PP-W162 is much more compact and
-it doesn't need any external wiring.
+correctly. Also, the PP-W162 is much more compact and it doesn't need
+any external wiring.
 
 It's pretty much clear that the device contains an
 [ESP8266](https://en.wikipedia.org/wiki/ESP8266), so it's just a
@@ -25,17 +25,17 @@ I hooked it up:
 
 ![Flashing Smart DGM PP-W162](/i/IMG_20190829_095217.jpg)
 
-Remember to ground the GPIO0 before powering the ESP to turn on
+Remember to ground the `GPIO0` before powering the ESP to turn on
 the flashing mode. The device contains:
 
 - [TYWE2S](https://docs.tuya.com/en/hardware/WiFi-module/wifi-e2s-module.html)
   board
 - energy monitoring component based on
   [BL0937](http://www.belling.com.cn/en/product_info.html?id=138)
-  (HLW8012 clone), connected to: CF - GPIO4, CF1 - GPIO5, SEL - GPIO12 (inverted)
-- 230 V relay connected to GPIO14
-- blue LED connected to GPIO13 (inverted)
-- switch connected GPIO3 (inverted)
+  (HLW8012 clone), connected to: CF - `GPIO4`, CF1 - `GPIO5`, SEL - `GPIO12` (inverted)
+- 230 V relay connected to `GPIO14`
+- blue LED connected to `GPIO13` (inverted)
+- switch connected `GPIO3` (inverted)
 
 Here's the full [ESPHome](https://esphome.io/) configuration:
 
