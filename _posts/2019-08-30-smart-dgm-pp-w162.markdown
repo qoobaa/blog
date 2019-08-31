@@ -11,7 +11,7 @@ power usage too. I bought a few [Sonoff
 Pows](https://www.itead.cc/sonoff-pow.html) for this purpose before,
 and I couldn't get them for less than $15 if I remember
 correctly. Also, the form factor of a PP-W162 is much more compact and
-it don't need any external wiring.
+it doesn't need any external wiring.
 
 It's pretty much clear that the device contains an
 [ESP8266](https://en.wikipedia.org/wiki/ESP8266), so it's just a
