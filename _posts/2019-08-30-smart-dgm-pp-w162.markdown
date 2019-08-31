@@ -26,7 +26,7 @@ glue it after flashing). Here's how I hooked it up:
 ![Flashing Smart DGM PP-W162](/i/IMG_20190829_095217.jpg)
 
 Remember to ground the `GPIO0` before powering the ESP to turn on
-the flashing mode. The device contains:
+the flashing mode. The device consists of:
 
 - [TYWE2S](https://docs.tuya.com/en/hardware/WiFi-module/wifi-e2s-module.html)
   board
