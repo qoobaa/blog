@@ -35,7 +35,7 @@ the flashing mode. The device contains:
   (HLW8012 clone), connected to: `GPIO4` (`CF`), `GPIO5` (`CF1`), `GPIO12` (`SEL`, inverted)
 - 230 V relay connected to `GPIO14`
 - blue LED connected to `GPIO13` (inverted)
-- switch connected `GPIO3` (inverted)
+- switch connected to `GPIO3` (inverted)
 
 Here's the full [ESPHome](https://esphome.io/) configuration:
 
