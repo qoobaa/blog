@@ -10,7 +10,7 @@ can remotely control anything up to 16 A (3680 W), monitoring the
 power usage too. I bought a few [Sonoff
 Pows](https://www.itead.cc/sonoff-pow.html) for this purpose before,
 and I couldn't get them for less than $15 if I remember
-correctly. Also, the form factor of a PP-W162 is much more compact and
+correctly. Also, the PP-W162 is much more compact and
 it doesn't need any external wiring.
 
 It's pretty much clear that the device contains an
