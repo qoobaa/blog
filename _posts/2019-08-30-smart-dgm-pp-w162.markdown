@@ -101,3 +101,4 @@ I've noticed that the results are a bit off (~5%) when you connect
 something bigger than a kilowatt.
 
 *[IoT]: Internet of Things
+*[LED]: Light-emitting Diode
