@@ -31,7 +31,7 @@ the flashing mode. The device contains:
 - [TYWE2S](https://docs.tuya.com/en/hardware/WiFi-module/wifi-e2s-module.html)
   board
 - energy monitoring component based on
-  (BL0937)[http://www.belling.com.cn/en/product_info.html?id=138]
+  [BL0937](http://www.belling.com.cn/en/product_info.html?id=138)
   (HLW8012 clone), connected to: CF - GPIO4, CF1 - GPIO5, SEL - GPIO12 (inverted)
 - 230 V relay connected to GPIO14
 - blue LED connected to GPIO13 (inverted)
