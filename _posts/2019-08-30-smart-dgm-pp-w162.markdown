@@ -18,10 +18,10 @@ It's pretty much clear that the device contains an
 matter of flashing it with your own firmware for turning it into
 something useful. It'd be perfect if the device could be flashed
 over-the-air, but most manufacturers don't allow it for obvious
-reasons (the ”S” in IoT stands for ”security”). Despite the fact that
-the casing doesn't seem to have any screws, it can be easily opened
-using a screwdriver (you'd need to glue it after flashing). Here's how
-I hooked it up:
+reasons (as we all know, the ”S” in IoT stands for
+”security”). Despite the fact that the casing doesn't seem to have any
+screws, it can be easily opened using a screwdriver (you'd need to
+glue it after flashing). Here's how I hooked it up:
 
 ![Flashing Smart DGM PP-W162](/i/IMG_20190829_095217.jpg)
 
@@ -32,7 +32,7 @@ the flashing mode. The device contains:
   board
 - energy metering component based on
   [BL0937](http://www.belling.com.cn/en/product_info.html?id=138)
-  (HLW8012 clone), connected to: CF - `GPIO4`, CF1 - `GPIO5`, SEL - `GPIO12` (inverted)
+  (HLW8012 clone), connected to: `GPIO4` (`CF`), `GPIO5` (`CF1`), `GPIO12` (`SEL`, inverted)
 - 230 V relay connected to `GPIO14`
 - blue LED connected to `GPIO13` (inverted)
 - switch connected `GPIO3` (inverted)
