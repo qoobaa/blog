@@ -2,7 +2,6 @@
 layout: post
 title: G13 Tariff in Home Assistant
 hacker_news_id:
-render_with_liquid: false
 ---
 
 I've heard a couple of stories recently about people switching to
@@ -15,6 +14,7 @@ three categories: morning peak, afternoon peak, and off-peak. It'd
 allow me to compare it to the regular G11 tariff at the end of the
 month.
 
+{% raw %}
 ~~~ yaml
 sensor:
   - platform: template
@@ -35,6 +35,7 @@ sensor:
           off_peak
         {% endif %}
 ~~~
+{% endraw %}
 
 The hardest part of figuring out the tariff name is the workday
 part - G13 assumes all weekends and public holidays as off-peak
@@ -72,6 +73,7 @@ every hour, getting the tariff name from the template sensor defined
 above, assigning it to the `daily_energy` and `monthly_energy`
 entities.
 
+{% raw %}
 ~~~ yaml
 - id: '1666861689467'
   alias: Set G13 Tariff
@@ -93,6 +95,7 @@ entities.
         entity_id: select.monthly_energy
   mode: single
 ~~~
+{% endraw %}
 
 ![G13 Tariff Name in Home Assistant](/i/g13_tariff_name.jpg)
 
