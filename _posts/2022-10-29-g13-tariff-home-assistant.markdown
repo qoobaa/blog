@@ -1,7 +1,7 @@
 ---
 layout: post
 title: G13 Tariff in Home Assistant
-hacker_news_id:
+hacker_news_id: 33382263
 ---
 
 I've heard a couple of stories recently about people switching to
