@@ -24,8 +24,8 @@ sensor:
       value_template: >
         {% set month = now().strftime('%m') | int %}
         {% set hour = now().strftime('%H') | int %}
-        {% set isSummer = month >= 4 and month <= 9 | bool %}
-        {% set isWinter = month <= 3 or month >= 10 | bool %}
+        {% set isSummer = (month >= 4 and month <= 9) | bool %}
+        {% set isWinter = (month <= 3 or month >= 10) | bool %}
         {% set isWorkday = states('binary_sensor.workday_sensor') | bool %}
         {% if isWorkday and hour >= 7 and hour < 13 %}
           morning_peak
